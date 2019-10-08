@@ -17,4 +17,6 @@
 ## Contributors
 
 > Add a list of contributors
+
 - Ofir Knimach (Knimofi)
+- [Zsolt Meszaros](https://github.com/zsoltime)
