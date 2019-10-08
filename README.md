@@ -17,3 +17,4 @@
 ## Contributors
 
 > Add a list of contributors
+- Ofir Knimach (Knimofi)
